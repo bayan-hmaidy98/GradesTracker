@@ -1,0 +1,19 @@
+body {
+    background-image: url('../img/school.jpg');
+    background-repeat : none;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+header{
+    background-color: black;
+    color: white;
+    height: 100px;
+    text-align: center;
+padding: 13px;
+}
+
+#global{
+    display: inline;
+}
+
+
